@@ -11,4 +11,6 @@ Python
 
 Pandas,Numpy,Matplotlib,Seaborn.
 
-Machine learning Algorithm-
+Machine learning Algorithm- Linear Regression and Random Forest 
+
+Random Forest showed the best Outcome.
